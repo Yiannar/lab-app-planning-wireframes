@@ -13,3 +13,10 @@ Submit links to your wireframes on Canvas.
 
 
 <img width="1192" alt="Screen Shot 2023-01-26 at 11 01 12 PM" src="https://user-images.githubusercontent.com/107489608/215007025-7ec601a9-ec05-4980-831c-0a505201460e.png">
+
+
+
+
+
+
+[wireframing image.pdf](https://github.com/Yiannar/lab-app-planning-wireframes/files/10515588/wireframing.image.pdf)
